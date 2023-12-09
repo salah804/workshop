@@ -28,6 +28,11 @@ class LocalAdviceScreen extends StatelessWidget {
             AdviceItem('1. Research and respect local customs and traditions.', textColor: Colors.black),
             AdviceItem('2. Dress modestly in culturally sensitive areas.', textColor: Colors.black),
             AdviceItem('3. Be aware of and follow local etiquette to show respect for the community.', textColor: Colors.black),
+            
+            SectionTitle('Explore Cultural Sites',textColor: Colors.indigo),
+            AdviceItem('1. Visit the UNESCO-listed Melaka Historic City for a journey through history.', textColor: Colors.black),
+            AdviceItem('2. Explore Jonker Street for its vibrant night market and local crafts.', textColor: Colors.black),
+            AdviceItem('3. Discover the Baba Nyonya Heritage Museum for a glimpse into Peranakan culture.', textColor: Colors.black),
           ],
         ),
       ),
